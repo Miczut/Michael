@@ -1,5 +1,4 @@
 # Michael Tetteh Zutah
-# Hi, I'm Michael Zutah 👋
 
 ### Atmospheric Science | Python | Data Analysis | AI
 
